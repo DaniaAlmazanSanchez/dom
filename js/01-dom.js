@@ -22,3 +22,6 @@ document.getElementsByName
 
 const texo = document.querySelector('#text');
 Texto.textContent = 'iestoy escribiendo desde javascript';
+
+/* crear elementos html */
+const div = document.create
